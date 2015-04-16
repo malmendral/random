@@ -1,0 +1,1 @@
+El archivo genera un numero aleatorio e indica si este es mayor, menor o igual que 0.5
